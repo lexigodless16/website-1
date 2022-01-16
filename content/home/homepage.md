@@ -33,7 +33,7 @@ advanced:
 ---
 
 ## Let me put my music in you.
-{{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing1{{% /staticref %}}
+{{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Thing1{{% /staticref %}}
 {{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing2{{% /staticref %}}
 {{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing3{{% /staticref %}}
 
