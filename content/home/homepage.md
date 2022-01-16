@@ -42,3 +42,41 @@ Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
 
 ## Experience
 
+widget: portfolio  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 10  # Order that this section will appear.
+
+title: "Godfrey Music Experience."
+subtitle: ""
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+  background:
+    # Apply a background color, gradient, or image.
+    #   Uncomment (by removing `#`) an option to apply it.
+    #   Choose a light or dark text color by setting `text_color_light`.
+    #   Any HTML color name or Hex value is valid.
+    color: navy
+    gradient_start: DarkGreen
+    gradient_end: ForestGreen
+    # image: hello.jpg  # Name of image in `static/media/`.
+    # image_darken: 0.4
+    # image_size: cover
+    # image_position: right
+    # image_parallax: true
+    text_color_light: true
+advanced:
+  css_style:
+  css_class: fullscreen
+---
+
+## My Mission
+
+Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+
+## Specialties
+
+Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+
+## Experience
