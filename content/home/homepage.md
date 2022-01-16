@@ -42,8 +42,8 @@ advanced:
 
 ## Let me put my music in you.
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
-{{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing2{{% /staticref %}}
-{{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing3{{% /staticref %}}
+{{% staticref "media/pride.jpg" "newtab" %}}Meme{{% /staticref %}}
+{{% staticref "media/pdfneeded.pdf" "newtab" %}}WIldcArd{{% /staticref %}}
 
 
 ## Specialties
