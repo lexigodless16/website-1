@@ -40,6 +40,5 @@ advanced:
 
 Leadership, Strategic Planning, Writing & Editing, Live Music
 
-## Experience
 
 
