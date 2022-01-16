@@ -31,18 +31,14 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-\
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Let me put my music in you.
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
