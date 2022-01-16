@@ -31,13 +31,6 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-
-\
-\
-\
-\
-\
-
 ## Let me put my music in you.
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
 {{% staticref "media/pdfneeded.pdf" "newtab" %}}Thing2{{% /staticref %}}
