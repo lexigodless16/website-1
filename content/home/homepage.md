@@ -32,13 +32,13 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## Let me put my music in you.
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+Leadership, Strategic Planning, Writing & Editing, Live Music
 
 ## Experience
 
