@@ -27,7 +27,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '3'
+  columns: '1'
   
   background:
     # Apply a background color, gradient, or image.
