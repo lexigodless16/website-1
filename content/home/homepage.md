@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 12  # Order that this section will appear.
 
 title: "Godfrey Music Experience"
-subtitle: ""
+subtitle: {{<audio src="media/ckuhtm.mp3" caption="" >}}
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,7 +44,7 @@ advanced:
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
 {{% staticref "media/pride.jpg" "newtab" %}}Meme{{% /staticref %}}
 {{% staticref "media/pdfneeded.pdf" "newtab" %}}WIldcArd{{% /staticref %}}
-{{<audio src="media/ckuhtm.mp3" caption="Please" >}}
+
 
 
 ## Specialties
