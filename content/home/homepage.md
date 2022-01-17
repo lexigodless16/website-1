@@ -48,7 +48,7 @@ advanced:
 
 ## Specialties
 
-Leadership, Strategic Planning, Writing & Editing, Live Music
-
-
+Leadership, Strategic Planning, Writing & Editing,
+<br>
+Live Music, Events
 
