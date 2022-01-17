@@ -18,6 +18,24 @@ content:
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
+  
+  # Uncomment to only show content with specific tags
+#  filters:
+#    tags:
+#      - featured project
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `filter_button` below.
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -49,7 +67,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: Masonry
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
