@@ -32,14 +32,7 @@ advanced:
   css_class: fullscreen
 ---
 ![](media/mar7pourhouse.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Let me put my music in you.
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
