@@ -34,7 +34,7 @@ design:
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
-     color: gold
+     color: blue
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
      #image: hello.jpg  # Name of image in `static/media/`.
