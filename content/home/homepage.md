@@ -44,6 +44,7 @@ advanced:
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
 {{% staticref "media/pride.jpg" "newtab" %}}Meme{{% /staticref %}}
 {{% staticref "media/pdfneeded.pdf" "newtab" %}}WIldcArd{{% /staticref %}}
+{{<audio src="static/media/ckuhtm.mp3" caption="Please" >}}
 
 
 ## Specialties
