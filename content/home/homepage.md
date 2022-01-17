@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 12  # Order that this section will appear.
 
-title: "Godfrey Music Experience."
+title: "Godfrey Music Experience"
 subtitle: ""
 
 design:
