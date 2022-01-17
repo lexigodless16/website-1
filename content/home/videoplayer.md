@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Video Selection
 subtitle:
-weight: 3  # section position on page
+weight: 66  # section position on page
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
