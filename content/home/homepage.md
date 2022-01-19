@@ -37,9 +37,8 @@ advanced:
 ## Let me put my music in you.
 {{% staticref "media/County_Line_Jig_melody.pdf" "newtab" %}}Jig{{% /staticref %}}
 {{% staticref "media/pride.jpg" "newtab" %}}meme{{% /staticref %}}
-{{% staticref "media/pdfneeded.pdf" "newtab" %}}{% /staticref %}}
-{{<audio src="media/ckuhtm.mp3" caption="Mandolin" >}}
-{{<audio src="media/Shane'sOwn.mp3" caption="Guitar" >}}
+{{<audio src="media/ckuhtm.mp3" caption="" >}}
+{{<audio src="media/Shane'sOwn.mp3" caption="" >}}
 
 ## Specialties
 
