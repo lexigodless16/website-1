@@ -31,7 +31,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-![](media/moodyheader.png)
+
 
 
 ## Let me put my music in you.
