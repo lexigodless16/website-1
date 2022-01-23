@@ -21,7 +21,7 @@ design:
      color: navy
      gradient_start: DarkGreen
      gradient_end: ForestGreen
-     image: hello.jpg Name of image in `static/media/`.
+     image: hello.png Name of image in `static/media/`.
      image_darken: 0.4
      image_size: cover
      image_position: right
