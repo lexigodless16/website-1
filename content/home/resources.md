@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title:
+title: Resources
 subtitle:
 weight: 120  # section position on page
 
