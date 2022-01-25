@@ -29,4 +29,4 @@ advanced:
   css_class: fullscreen
 
 ---
-{{%attachments title="Related files" pattern=".*\.(pdf|mp4)$"/%}}
+#{{%attachments title="Related files" pattern=".*\.(pdf|mp4)$"/%}}
