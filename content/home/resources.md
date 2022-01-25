@@ -31,4 +31,8 @@ advanced:
 ---
 This is where some links will go for now
 
+#{{%attachments title="Related files" pattern=".*\.(pdf|mp4)$"/%}}
+
 oogityboopgityrrrrrrteest
+
+how bouuuut bow?
