@@ -46,3 +46,6 @@ Leadership, Strategic Planning, Writing & Editing,
 <br>
 Live Music, Events
 
+{{%attachments title="Related files" pattern=".*\.(pdf|mp4)$"/%}}
+
+
